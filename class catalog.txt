@@ -1,0 +1,67 @@
+5 Series
+Physics 5A
+Physics 5B
+Physics 5BL
+Physics 5C
+Physics 5CL
+
+7 Series
+Physics 7A
+Physics 7B
+Physics 7C
+
+Lower Division
+Physics 77
+Physics 89
+
+Upper Division Requirement
+Physics 105
+Physics 110A
+Physics 111A
+Physics 111B
+Physics 112
+Physics 137A
+Physics 137B
+
+Upper Division Elective
+Physics 110B
+Physics 129
+Physics 139
+Physics 141A
+Physics 141B
+Physics 151
+Physics 177
+Physics C191
+
+Astronomy
+Astronomy 7A
+Astronomy 7B
+Astronomy 120
+Astronomy 121
+Astronomy 128
+Astronomy 160
+Astronomy C161
+Astronomy C162
+
+Mathematics
+Math 53
+Math 54
+Math 55
+Math 104
+Math 110
+Math 113
+Math 121A
+Math 121B
+Math 128A
+Math 128B
+Math 185
+
+8 Series
+Physics 8A
+Physics 8B
+
+Non-major Elective
+Astronomy C10
+Astronomy C12
+Physics C10
+Physics C21
