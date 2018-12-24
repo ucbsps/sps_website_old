@@ -2085,7 +2085,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #2B252C;
+			background: #84c9e4;
 		}
 
 			input[type="button"].alt:hover,
@@ -2131,7 +2131,7 @@ input, select, textarea {
 		.icon.circled {
 			position: relative;
 			display: inline-block;
-			background: #2b252c;
+			background: #84c9e4;
 			color: #fff;
 			border-radius: 100%;
 			width: 3em;
@@ -2445,13 +2445,13 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 6em 0 6em 0;
-		background: #2b252c;
-		color: #fff;
+		background: #84c9e4;
+		color: #000;
 	}
 
 		#footer .icon.circled {
-			background: #fff;
-			color: #2b252c;
+			background: #000;
+			color: #84c9e4;
 		}
 
 		#footer header {
@@ -2460,7 +2460,7 @@ input, select, textarea {
 		}
 
 		#footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #fff;
+			color: #000;
 		}
 
 		#footer .contact {
@@ -2474,17 +2474,17 @@ input, select, textarea {
 
 		#footer .copyright {
 			text-align: center;
-			color: rgba(128, 128, 128, 0.75);
+			color: rgba(0, 0, 0, 0.75);
 			font-size: 0.8em;
 			cursor: default;
 		}
 
 			#footer .copyright a {
-				color: rgba(128, 128, 128, 0.75);
+				color: rgba(0, 0, 0, 0.75);
 			}
 
 				#footer .copyright a:hover {
-					color: rgba(212, 212, 212, 0.85);
+					color: rgba(0, 0, 0, 0.85);
 				}
 
 /* Carousel */
@@ -3140,6 +3140,21 @@ input, select, textarea {
 		padding-top: 50px;
 		padding-bottom: 20px;
 		padding-left: 25px;
+		padding-right: 50px;
+}
+
+.columnfsl_pic {
+    width: 20%;
+		padding-top: 50px;
+		padding-bottom: 20px;
+		padding-left: 50px;
+		padding-right: 12px;
+}
+.columnfsl_desc {
+    width: 80%;
+		padding-top: 50px;
+		padding-bottom: 20px;
+		padding-left: 12px;
 		padding-right: 50px;
 }
 
