@@ -65,3 +65,12 @@ Astronomy C10
 Astronomy C12
 Physics C10
 Physics C21
+
+Recommended Breadth Courses
+Geography 10
+L & S 22
+Plantbio 40
+ESPM 50 AC
+Music 27
+Psych 2
+Psych 1
