@@ -1,0 +1,153 @@
+<!DOCTYPE HTML>
+<!--
+	Helios by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Who we are</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="no-sidebar is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+			<div id="header">
+
+				<!-- Inner -->
+				<div class="inner">
+						<h1><a href="index.html" id="logo"><img src="images/spslogo.svg" alt="" /></a></h1>
+				</div>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="index.html">Home</a></li>
+
+							<li><a href="calendar.html">Calendar</a></li>
+
+							<li>
+								<a href="#">About Us</a>
+
+								<ul>
+									<li><a href="about.html">Who we are</a></li>
+									<li><a href="officers.html">Officer Board</a></li>
+								</ul>
+							</li>
+
+							<li>
+								<a href="#">Community</a>
+
+								<ul>
+									<li><a href="fsl.html">Faculty-Student Lunches</a></li>
+									<li><a href="bbq.html">Barbecues</a></li>
+									<li><a href="ugseminar.html">Undergraduate Seminars</a></li>
+									<li><a href="projects.html">Projects</a></li>
+									<li><a href="potw.html">Problem of the Week</a></li>
+									<li><a href="snackshack.html">Snack Shack Menu</a></li>
+								</ul>
+							</li>
+
+							<li><a href="outreach.html">Outreach</a></li>
+
+							<li>
+								<a href="#">Resources</a>
+
+								<ul>
+									<li><a href="faq.html">Frequently Asked Questions</a></li>
+									<li><a href="courses.html">Course Advice</a></li>
+									<li><a href="climate.html">Department Climate</a></li>
+									<li><a href="partners.html">Partner Organizations</a></li>
+								</ul>
+							</li>
+						</ul>
+					</nav>
+
+			</div>
+
+			<!-- Main -->
+				<div class="wrapper style1">
+					<div class="container">
+						<article id="main" class="special">
+							<header>
+								<h2>About Us</h2>
+								<p>
+                                About three things, I was absolutely positive. <strong>First</strong>, SPS was the official voice of the physics student body.<strong> Second</strong>, there was a part of it--and I didn't know how potent that part might be -- that thirsted for new members. And <strong>third</strong>, it's really fun! </p>
+                            <h2> Who we are </h2>            
+							<p>	In all seriousness, the Society of Physics Students is a student run organization that serves to provide a community for physics majors <strong>and</strong> physics enthusiasts (i.e. being a physics major is not required!) and connects the undergraduate population of the physics department to the department as a whole! As a result, we hold events such as <a href =fsl.html>faculty-student lunches</a>, <a href="ugseminar.html">undergraduate seminars</a>, <a href="bbq.html">department-wide barbeques</a>, and even provide a platform for student-led <a href="projects">projects</a>. Moreover, SPS is also involved <a href="outreach.html">outreach</a> so as to spread the gospel of physics and science as a whole to the next generation!
+								</p>
+
+						</header>	
+                
+
+								<p>Now for those of you who are more legally minded, you can take a look at <strong><a href="documents/SPSChapterReport2015-16.pdf">our constitution</a> </strong></p>
+
+								<p>
+								<h3><font size=6>Chapter reports from previous years:</font></h3>
+                <ul>
+                <li><h4><font size=4><a href="documents/SPSChapterReport2015-16.pdf">2015-2016</a></font></h4></li>
+								<li><h4><font size=4><a href="documents/SPSChapterReport2016-17.pdf">2016-2017</a></font></h4></li>
+								<li><h4><font size=4><a href="documents/SPSChapterReport2017-18.pdf">2017-2018</a></font></h4></li>
+						  	</ul>
+							  </p>
+							</section>
+
+							</div>
+
+			<!-- Footer -->
+				<div id="footer">
+					<div class="container">
+						<div class="row">
+
+						</div>
+						<hr />
+						<div class="row">
+							<div class="col-12">
+
+								<!-- Contact -->
+									<section class="contact">
+										<header>
+											<h3>Want to know more?</h3>
+										</header>
+										<p>We thought so. Keep in touch with our antics on Facebook:</p>
+										<ul class="icons">
+											<!-- <li><a href="#" class="icon fa-twitter"><span class="label">Twitter</span></a></li> -->
+											<li><a href="https://www.facebook.com/groups/474568829304662/?hc_ref=ARSvhpOXtn1hRAX1mjXECx0E4G8C89iZxbqLzIRS_B9Wl_vGWv6ZZ8Iay6i-J8WJON8" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+											<!-- <li><a href="#" class="icon fa-instagram"><span class="label">Instagram</span></a></li> -->
+											<!-- <li><a href="#" class="icon fa-pinterest"><span class="label">Pinterest</span></a></li> -->
+											<!-- <li><a href="#" class="icon fa-dribbble"><span class="label">Dribbble</span></a></li> -->
+											<!-- <li><a href="#" class="icon fa-linkedin"><span class="label">Linkedin</span></a></li> -->
+										</ul>
+									</section>
+
+								<!-- Copyright -->
+									<div class="copyright">
+										<ul class="menu">
+											<li>&copy; Society of Physics Students at the University of California, Berkeley. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+										</ul>
+									</div>
+
+							</div>
+
+						</div>
+					</div>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
