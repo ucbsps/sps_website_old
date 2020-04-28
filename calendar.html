@@ -7,6 +7,7 @@
 <html>
 	<head>
 		<title>Calendar</title>
+		<script src="./assets/js/jquery-3.5.0.min.js"></script>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
@@ -16,98 +17,58 @@
 		<div id="page-wrapper">
 
 			<!-- Header -->
-				<div id="header">
+			<div id="header">
 
-					<!-- Inner -->
-					<div class="inner">
-							<h1><a href="index.html" id="logo"><img src="images/spslogo.svg" alt="" /></a></h1>
-					</div>
-
-					<!-- Nav -->
-					<nav id="nav">
-						<ul>
-							<li><a href="index.html">Home</a></li>
-
-							<li><a href="calendar.html">Calendar</a></li>
-
-							<li>
-								<a href="#">About Us</a>
-
-								<ul>
-									<li><a href="about.html">Who we are</a></li>
-									<li><a href="officers.html">Officer Board</a></li>
-								</ul>
-							</li>
-
-							<li>
-								<a href="#">Community</a>
-
-								<ul>
-									<li><a href="bbq.html">Barbecues</a></li>
-									<li><a href="fsl.html">Faculty-Student Lunches</a></li>
-									<li><a href="potw.html">Problem of the Week</a></li>
-									<li><a href="professional.html">Professional Development</a></li>
-									<li><a href="projects.html">Projects</a></li>
-									<li><a href="snackshack.html">Snack Shack</a></li>
-									<li><a href="ugseminar.html">Undergraduate Seminars</a></li>
-								</ul>
-							</li>
-
-							<li><a href="outreach.html">Outreach</a></li>
-
-							<li>
-								<a href="#">Resources</a>
-
-								<ul>
-									<li><a href="courses.html">Course Advice</a></li>
-									<li><a href="climate.html">Department Climate</a></li>
-									<li><a href="faq.html">Frequently Asked Questions</a></li>
-									<li><a href="partners.html">Partner Organizations</a></li>
-									<li><a href="gendered_violence.html">Resources for victims of Gendered Violence</a></li>
-								</ul>
-							</li>
-						</ul>
-					</nav>
-
+				<!-- Inner -->
+				<div class="inner">
+						<h1><a href="index.html" id="logo"><img src="images/spslogo.svg" alt="" /></a></h1>
 				</div>
+
+				<!-- Nav -->
+				<nav id="nav">
+					<script>
+						$( "#nav" ).load( "nav.html" );
+					</script>
+					<div id="nav"></div>
+				</nav>
+			
+
+			</div>
 
 			<!-- Banner -->
-				<section id="banner">
-					<header>
-						<h2>Calendar</h2>
-						<p>
-							Keep in the loop on an eigenbasis of exciting events.
-						</p>
-					</header>
-				</section>
+			<section id="banner">
+				<header>
+					<h2>Calendar</h2>
+					<p>
+						Keep in the loop on an eigenbasis of exciting events.
+					</p>
+				</header>
+			</section>
 
-				<div class="wrapper style1">
+			<div class="wrapper style1">
 
-					<div class="container">
-						<article id="main" class="special">
+				<div class="container">
+					<article id="main" class="special">
 
-							<style> /* Some CSS to center the calendar */
+						<style> /* Some CSS to center the calendar */
 							.aligncenter {
-							    text-align: center;
+							text-align: center;
+						
 							
 								
-									
-								}
-								div.ex1 {
-  overflow: scroll;
-}
-								
-							</style>
+							}
+							div.ex1 {overflow: scroll;}
+						</style>
 
-            <!-- Embed a Google Calendar -->
-							<div class="ex1">
-						<p class="aligncenter">
-	            <iframe src="https://calendar.google.com/calendar/embed?src=ucbsps%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-					  </p>
-							</div>
-						</article>
-					</div>
+		<!-- Embed a Google Calendar -->
+						<div class="ex1">
+							<p class="aligncenter">
+								<iframe src="https://calendar.google.com/calendar/embed?src=ucbsps%40gmail.com&ctz=America%2FLos_Angeles" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+							</p>
+						</div>
+					</article>
 				</div>
+			</div>
 
 
 			<!-- Main -->
